@@ -16,7 +16,7 @@ body {
   font-size: 1.6em;
   line-height: 2.4rem;
   text-align: center;
-  font-family: Zen Kaku Gothic New;
+  font-family: "Zen Kaku Gothic New", sans-serif;
   font-weight: 500;
 }
 * {
